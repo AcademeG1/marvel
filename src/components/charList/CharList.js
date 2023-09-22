@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PropsTypes, { number } from 'prop-types'
+import PropsTypes from 'prop-types'
 import MarvelService from '../../services/MarvelServices';
 import './charList.scss';
 import ErrorMessage from '../errorMessage/errorMessage';
